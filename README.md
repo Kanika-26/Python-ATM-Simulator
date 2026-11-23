@@ -35,7 +35,7 @@ A simple command-line ATM simulation project built using Python.
 3. Run the following command:
 
 ```bash
-python atm_simulator.py
+python atm.py
 ```
 
 ## Purpose
